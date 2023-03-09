@@ -20,7 +20,7 @@ para el codigo QR:
 
 Esta ultima playlist hace un CRUD completo con conexion PHP lo unico que tendras que hacer es adaptar el codigo,
 los diseños, etc: 
-https://youtube.com/playlist?list=PLCTD_CpMeEKSiUQ_svD3ovD1qXdKQFMvO
+- https://youtube.com/playlist?list=PLCTD_CpMeEKSiUQ_svD3ovD1qXdKQFMvO
 
 Las paqueterias utilizadas se explican dentro de los videos.
 
