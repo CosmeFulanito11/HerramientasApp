@@ -19,16 +19,16 @@ para el codigo QR:
 - https://youtube.com/playlist?list=PLNdFk2_brsRdYF0FXDtSaGvluzBNHRbNe
 
 Esta ultima playlist hace un CRUD completo con conexion PHP lo unico que tendras que hacer es adaptar el codigo,
-los diseños, etc
+los diseños, etc: 
 https://youtube.com/playlist?list=PLCTD_CpMeEKSiUQ_svD3ovD1qXdKQFMvO
 
-Las paqueterias utilizadas se explican dentro de los videos
+Las paqueterias utilizadas se explican dentro de los videos.
 
 # Requisitos
 Debes tener en cuenta que ANDROID STUDIO utiliza muchos recurso de tu computadora ya que
 tiene que ejecutar el codigo y emular un celular al mismo tiempo.
 
-Mi laptop tiene las siguientes caracteristicas y aun asi sufrio para ejecutar el emulador
+Mi laptop tiene las siguientes caracteristicas y aun asi sufrio para ejecutar el emulador: 
 - Ryzen 7 3700u con graficos integrados Radeon Vega 10
 - 16 GB en memoria RAM
 
